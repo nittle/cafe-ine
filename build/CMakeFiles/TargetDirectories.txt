@@ -1,3 +1,0 @@
-/home/daniil/Documents/caffee_app/build/CMakeFiles/cafe-in.dir
-/home/daniil/Documents/caffee_app/build/CMakeFiles/edit_cache.dir
-/home/daniil/Documents/caffee_app/build/CMakeFiles/rebuild_cache.dir

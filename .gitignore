@@ -1,0 +1,20 @@
+# Build directories
+build/
+out/
+bin/
+obj/
+
+# CMake cache and auto-generated files
+CMakeCache.txt
+CMakeFiles/
+CMakeUserPresets.json
+compile_commands.json
+
+# Visual Studio & IDE artifacts
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Cache files
+.cache/
